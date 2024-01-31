@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Creole Down Under</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Creole Down Under</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jan 2024 15:23:19 +1100</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flexbox, alignment and centering</title>
+      <link>/posts/flexbox_alignment_centering/</link>
+      <pubDate>Wed, 31 Jan 2024 15:23:19 +1100</pubDate>
+      <guid>/posts/flexbox_alignment_centering/</guid>
+      <description>How to align and center elements</description>
+    </item>
+    <item>
+      <title>Flexbox, around ordering</title>
+      <link>/posts/flexbox_ordering/</link>
+      <pubDate>Wed, 31 Jan 2024 15:15:56 +1100</pubDate>
+      <guid>/posts/flexbox_ordering/</guid>
+      <description>Bringing some order</description>
+    </item>
+    <item>
+      <title>Learning about the basics of the Flexbox Layout</title>
+      <link>/posts/intro_flexbox/</link>
+      <pubDate>Wed, 31 Jan 2024 15:11:32 +1100</pubDate>
+      <guid>/posts/intro_flexbox/</guid>
+      <description>Time to learn about flexbox</description>
+    </item>
+  </channel>
+</rss>
