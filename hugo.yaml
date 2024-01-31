@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://creoledownunder.netlify.app/"
 languageCode: en-us
 title: Creole Down Under
 theme: PaperMod
