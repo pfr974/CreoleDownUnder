@@ -1,0 +1,47 @@
+baseURL: ""
+languageCode: en-us
+title: Creole Down Under
+theme: PaperMod
+
+params:
+  # profile-mode
+  profileMode:
+    # Needs to be explicitly set
+    enabled: true
+    title: Frédéric Robert
+    imageUrl: "/images/avatar.jpg"
+    imageWidth: 300
+    imageHeight: 300
+    buttons:
+      - name: Posts
+        url: /posts
+      - name: Tags
+        url: /tags
+      - name: Archives
+        url: /archives
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/pfr974"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-robert-b667801a4/"
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowCodeCopyButtons: true
+  math: true
+  ShowAllPagesInArchive: true
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
